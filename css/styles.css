@@ -1,0 +1,27 @@
+/*Remmeber that all sites already have a default CSS.*/
+body {
+  background-color: #d6efc7;
+}
+
+hr {
+  border-style: none;
+  border-top: 2px dotted;
+  border-color: #545454;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 {
+  color: #438a5e;
+}
+
+h3 {
+  color: #438a5e;
+}
+
+/*hr {
+    background-color: white;
+    border-style: none;
+    height: 2px;
+    width: 99%;
+  }*/
